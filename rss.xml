@@ -4,7 +4,7 @@
         <description><![CDATA[HEAVENSTAR QUALITY LEATHER & GRAPHIC DESIGN]]></description>
         <link>https://thegrid.ai/heavenstar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 00:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 01:08:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/heavenstar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/heavenstar/a4b8f454-d845-4c25-b7f9-cbcca950e068/index.html</link>
             <guid isPermaLink="false">a4b8f454-d845-4c25-b7f9-cbcca950e068</guid>
             <pubDate>Sun, 21 Feb 2016 00:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to Quality.]]></title>
+            <description><![CDATA[<article><h1>Welcome to Quality.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/daa1de897460d79d5bdc6579528e7fcbdd0a080f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/heavenstar/welcome-to-quality/index.html</link>
+            <guid isPermaLink="false">e9368be9-846e-4e75-8ce8-8bf70e612d83</guid>
+            <pubDate>Sun, 21 Feb 2016 01:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
