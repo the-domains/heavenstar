@@ -1,7 +1,7 @@
 name: Heavenstar
 favicon: null
-layout_spectrum: 0.7915202884469181
-typography_spectrum: 0.5429382850416005
+layout_spectrum: 0.92515
+typography_spectrum: 0.34084
 title: 'HEAVENSTAR QUALITY LEATHER & GRAPHIC DESIGN'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#000000'
+    - '#135a74'
+    - '#1e94bf'
+    - '#8fe8ff'
+    - '#818481'
   brandStrength: 0.33101697731763124
   lightness: 0.6772271364461631
   saturation: 0.8525167109910399
