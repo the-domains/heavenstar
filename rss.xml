@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Heavenstar]]></title>
-        <description><![CDATA[Heavenstar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[HEAVENSTAR QUALITY LEATHER & GRAPHIC DESIGN]]></title>
+        <description><![CDATA[HEAVENSTAR QUALITY LEATHER & GRAPHIC DESIGN]]></description>
+        <link>https://thegrid.ai/heavenstar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 00:17:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 00:27:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/heavenstar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86b611c3-4561-4866-bc62-399dfad86adb.gif">]]></description>
-            <link>undefineda4b8f454-d845-4c25-b7f9-cbcca950e068/index.html</link>
+            <link>https://thegrid.ai/heavenstar/a4b8f454-d845-4c25-b7f9-cbcca950e068/index.html</link>
             <guid isPermaLink="false">a4b8f454-d845-4c25-b7f9-cbcca950e068</guid>
-            <pubDate>Sun, 21 Feb 2016 00:17:49 GMT</pubDate>
+            <pubDate>Sun, 21 Feb 2016 00:26:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
