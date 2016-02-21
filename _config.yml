@@ -1,0 +1,28 @@
+name: Heavenstar
+favicon: null
+layout_spectrum: 0.7915202884469181
+typography_spectrum: 0.5429382850416005
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.33101697731763124
+  lightness: 0.6772271364461631
+  saturation: 0.8525167109910399
+  rhythmicContrast: 0.07745640375651419
+purpose: []
