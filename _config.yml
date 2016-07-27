@@ -1,20 +1,4 @@
-name: Heavenstar
-favicon: null
-layout_spectrum: 0.92515
-typography_spectrum: 0.34084
-title: 'HEAVENSTAR QUALITY LEATHER & GRAPHIC DESIGN'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#000000'
@@ -24,6 +8,12 @@ color:
     - '#818481'
   brandStrength: 0.33101697731763124
   lightness: 0.6772271364461631
-  saturation: 0.8525167109910399
   rhythmicContrast: 0.07745640375651419
+  saturation: 0.8525167109910399
+cta: {}
+layout_spectrum: 0.38429
+name: Heavenstar
+opengraph: {}
 purpose: []
+title: HEAVENSTAR QUALITY LEATHER & GRAPHIC DESIGN
+typography_spectrum: 0.34084
