@@ -6,17 +6,19 @@ isBasedOnUrl: 'http://m.bonanza.com/booths/heavenstar'
 inLanguage: null
 keywords: []
 description: Baby blue moccasins. Handmade by Heavenstar.
-datePublished: '2016-07-28T14:07:50.694Z'
-dateModified: '2016-07-28T14:07:43.922Z'
-author: []
+datePublished: '2016-07-28T14:24:29.174Z'
+dateModified: '2016-07-28T14:07:55.727Z'
+author:
+  - name: ''
+    url: ''
 title: Baby Moccasins
 via: {}
 sourcePath: _posts/2016-07-27-baby-moccasins.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 _context: 'http://schema.org'
