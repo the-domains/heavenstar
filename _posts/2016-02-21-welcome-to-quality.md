@@ -5,29 +5,30 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-16T17:32:50.022Z'
-dateModified: '2016-05-16T17:32:18.922Z'
+datePublished: '2016-07-28T06:26:40.845Z'
+dateModified: '2016-07-28T06:26:30.937Z'
 title: Welcome to Quality.
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-02-21-welcome-to-quality.md
+via: {}
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
-sourcePath: _posts/2016-02-21-welcome-to-quality.md
 url: welcome-to-quality/index.html
 _type: Blurb
 
 ---
 # Welcome to Quality.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a25fcaa-9f8c-4068-a17b-f454a29b9e35.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/daa1de897460d79d5bdc6579528e7fcbdd0a080f.jpg)
+![Heavensatr red halters](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1908e512069541923ac6c37c05c809f96efbb8c.jpg)
 
 Leather with a wildside.
-![Heavensatr red halters](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1744c91c-3706-4198-823f-0da70b275019.jpg)
+![Heavenstar blue halters](https://s3-us-west-2.amazonaws.com/the-grid-img/p/26f38d24fef18c9cf6be281b20886161ad9be851.jpg)
 
 Rock one of these at the concert or the club.
-![Heavenstar blue halters](https://the-grid-user-content.s3-us-west-2.amazonaws.com/201d3a6b-2867-480e-8e9f-adde35fd0f5d.jpg)
