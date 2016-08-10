@@ -9,8 +9,8 @@ keywords: []
 description: >-
   Baby Moccasins can be found
   at.https://m.facebook.com/Moroccan-Village-456646994504636/
-datePublished: '2016-08-10T22:14:29.002Z'
-dateModified: '2016-08-10T22:14:16.176Z'
+datePublished: '2016-08-10T22:15:12.368Z'
+dateModified: '2016-08-10T22:14:36.058Z'
 author:
   - name: ''
     url: ''
@@ -19,9 +19,9 @@ via: {}
 sourcePath: _posts/2016-07-27-baby-moccasins-can-be-found-athttpsmfacebookcommorocc.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 _context: 'http://schema.org'
