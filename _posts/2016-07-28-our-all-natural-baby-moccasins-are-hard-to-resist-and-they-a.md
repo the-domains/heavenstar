@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Our all natural Baby Moccasins are hard to resist and they are very soft.
-datePublished: '2016-07-28T14:23:08.425Z'
-dateModified: '2016-07-28T14:23:02.530Z'
+datePublished: '2016-08-10T18:32:36.038Z'
+dateModified: '2016-07-28T14:23:15.534Z'
 title: ''
 author:
   - name: ''
@@ -16,9 +16,9 @@ sourcePath: >-
   _posts/2016-07-28-our-all-natural-baby-moccasins-are-hard-to-resist-and-they-a.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 url: our-all-natural-baby-moccasins-are-hard-to-resist-and-they-a/index.html
