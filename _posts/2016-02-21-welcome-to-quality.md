@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-28T06:26:40.845Z'
-dateModified: '2016-07-28T06:26:30.937Z'
+datePublished: '2016-08-10T18:33:19.975Z'
+dateModified: '2016-08-10T18:33:19.303Z'
 title: Welcome to Quality.
 author:
   - name: ''
@@ -15,9 +15,9 @@ sourcePath: _posts/2016-02-21-welcome-to-quality.md
 via: {}
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: false
 url: welcome-to-quality/index.html
