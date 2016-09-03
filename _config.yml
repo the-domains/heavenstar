@@ -1,9 +1,4 @@
-name: Heavenstar
-layout_spectrum: 0.15648
 typography_spectrum: 0.34084
-cta: {}
-analytics: {}
-opengraph: {}
 color:
   brandColors:
     - '#000000'
@@ -15,5 +10,11 @@ color:
   lightness: 0.6772271364461631
   saturation: 0.8525167109910399
   rhythmicContrast: 0.07745640375651419
-purpose: []
+opengraph: {}
+layout_spectrum: 0.15648
+analytics: {}
+name: Heavenstar
+cta: {}
 title: HEAVENSTAR QUALITY LEATHER & GRAPHIC DESIGN
+description: '"Crafting in the USA"'
+purpose: []
