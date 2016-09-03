@@ -15,6 +15,10 @@ layout_spectrum: 0.15648
 analytics: {}
 name: Heavenstar
 cta: {}
+navigation:
+  - name: Heavenstar's facebook page.
+    url: 'https://www.facebook.com/heavenstar777/'
+    type: external
 title: HEAVENSTAR QUALITY LEATHER & GRAPHIC DESIGN
 description: '"Crafting in the USA"'
 purpose: []
