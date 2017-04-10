@@ -1,24 +1,93 @@
-typography_spectrum: 0.34084
+name: Heavenstar
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d574f03-ed5a-4e43-b3f2-955fc3527bdf.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9daebefd-b7e3-4487-a99a-30cd2783b238.png
+layout_spectrum: 0.8213046510619028
+typography_spectrum: 0.8324202440814622
+cta: {}
+analytics:
+  twitter: '@HeavenstarUS'
+opengraph:
+  type: Business Page
+  appId: 'https://www.facebook.com/HeavenstarUS/'
 color:
   brandColors:
-    - '#000000'
-    - '#135a74'
-    - '#1e94bf'
-    - '#8fe8ff'
-    - '#818481'
-  brandStrength: 0.33101697731763124
-  lightness: 0.6772271364461631
-  saturation: 0.8525167109910399
-  rhythmicContrast: 0.07745640375651419
-opengraph: {}
-layout_spectrum: 0.15648
-analytics: {}
-name: Heavenstar
-cta: {}
-navigation:
-  - name: Heavenstar's facebook page.
-    url: 'https://www.facebook.com/heavenstar777/'
-    type: external
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+  brandStrength: 0.31690385157768014
+  lightness: 0.04973638494747995
+  saturation: 0.11978352713380193
+  rhythmicContrast: 0.9965325653079049
+purpose:
+  - type: contact
+    label: Contact us
+    url: 'mailto:heavenstar77@gmail.com'
+  - type: contact
+    label: Call us
+    url: 'tel:970-270-0190'
 title: HEAVENSTAR QUALITY LEATHER & GRAPHIC DESIGN
 description: '"Crafting in the USA"'
-purpose: []
+author:
+  name: Jeff Niles
+  url: 'http://heavenstar.link/'
+  email: heavenstar77@gmail.com
+content_rating:
+  adult: false
+navigation:
+  - name: THE HEAVENLY STORE
+    url: 'https://www.bonanza.com/booths/Heavenstar'
+    type: external
+  - name: THE HERBAL STORE
+    url: 'https://www.bonanza.com/booths/Wolfstar_Healing'
+    type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/HeavenstarUS/'
+    type: external
+  - name: Twitter
+    url: 'https://twitter.com/HeavenstarUS'
+    type: external
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Flo8G_0aPSeg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dlo8G_0aPSeg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Flo8G_0aPSeg%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      '@type': VideoObject
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://youtu.be/lo8G_0aPSeg'
+      inLanguage: en
+      keywords:
+        - heavenstar
+        - duration
+        - thegrid
+        - jessesphotos
+        - musicman
+        - '851'
+        - sledding
+        - autoplay
+        - '261'
+        - https
+      title: Warriorwear.mp4
+      publisher:
+        name: YouTube
+        domain: youtu.be
+        url: 'https://www.youtube.com/'
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+      author:
+        - name: j Musicman
+          url: 'https://www.youtube.com/user/JNMUSICMAN9'
+          avatar: {}
+      starred: false
+      description: 'Warrior wear designed by Heavenstar. https://thegrid.ai/heavenstar/?'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
