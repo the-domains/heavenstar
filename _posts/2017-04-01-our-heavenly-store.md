@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-15T17:02:14.803Z'
-datePublished: '2017-11-15T17:02:15.841Z'
+dateModified: '2017-11-15T17:04:00.505Z'
+datePublished: '2017-11-15T17:04:01.047Z'
 title: Our Heavenly Store
 author: []
 publisher: {}
