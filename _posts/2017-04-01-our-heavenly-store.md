@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-15T17:04:00.505Z'
-datePublished: '2017-11-15T17:04:01.047Z'
+dateModified: '2017-11-15T17:17:22.188Z'
+datePublished: '2017-11-15T17:17:22.717Z'
 title: Our Heavenly Store
 author: []
 publisher: {}
@@ -21,5 +21,5 @@ _type: Article
 # [Our Herbal Store][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/37406ed2-5239-466a-a203-e0a626e45493.jpg)
 
-[0]: https://www.bonanza.com/booths/Heavenstar "Our Heavenly Store"
-[1]: https://www.bonanza.com/booths/Wolfstar_Healing "Our Herbal Store"
+[0]: https://www.bonanza.com/booths/Heavenstar "Heavenstar"
+[1]: https://www.bonanza.com/booths/Wolfstar_Healing "Wolfstar Healing"
