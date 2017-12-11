@@ -1,27 +1,27 @@
+layout_spectrum: 0.9174598443403951
+typography_spectrum: 0.6400829172071697
+color:
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  brandStrength: 0.9431427659559994
+  lightness: 0.21517165486811485
+  saturation: 0.544867600247098
+  rhythmicContrast: 0.10102128893699461
 name: Heavenstar
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d574f03-ed5a-4e43-b3f2-955fc3527bdf.png
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9daebefd-b7e3-4487-a99a-30cd2783b238.png
-layout_spectrum: 0.8213046510619028
-typography_spectrum: 0.8324202440814622
 cta: {}
 analytics:
   twitter: '@HeavenstarUS'
 opengraph:
   type: Business Page
   appId: 'https://www.facebook.com/HeavenstarUS/'
-color:
-  brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
-  brandStrength: 0.31690385157768014
-  lightness: 0.04973638494747995
-  saturation: 0.11978352713380193
-  rhythmicContrast: 0.9965325653079049
 purpose:
   - type: contact
     label: Contact us
