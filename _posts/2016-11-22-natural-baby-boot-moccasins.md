@@ -14,8 +14,8 @@ keywords:
   - snug
   - baby
 title: Natural Baby Boot Moccasins
-datePublished: '2017-12-11T03:28:35.843Z'
-dateModified: '2017-12-11T03:28:35.150Z'
+datePublished: '2017-12-11T03:54:27.174Z'
+dateModified: '2017-12-11T03:54:26.676Z'
 publisher:
   name: Heavenstar
   domain: heavenstar.mystagingwebsite.com
