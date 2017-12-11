@@ -1,9 +1,9 @@
 ---
-datePublished: '2017-12-11T03:25:12.108Z'
+datePublished: '2017-12-11T03:28:35.855Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-04-06T04:00:54.531Z'
+dateModified: '2017-12-11T03:28:35.150Z'
 title: The StashBuddie
 publisher: {}
 description: ''
