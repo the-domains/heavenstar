@@ -57,8 +57,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/NlOpnzf86Y4'
 title: Roll-it-Up Pen Caddy
-datePublished: '2017-12-11T03:28:35.942Z'
-dateModified: '2017-12-11T03:28:35.150Z'
+datePublished: '2018-01-21T19:52:44.469Z'
+dateModified: '2018-01-21T19:52:43.375Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-01-roll-it-up-pen-caddy.md
