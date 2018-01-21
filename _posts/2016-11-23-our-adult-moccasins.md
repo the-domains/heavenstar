@@ -1,9 +1,9 @@
 ---
-datePublished: '2017-12-11T03:28:35.912Z'
+datePublished: '2018-01-21T19:52:44.468Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-12-11T03:28:35.150Z'
+dateModified: '2018-01-21T19:52:43.375Z'
 title: Our Adult Moccasins
 publisher: {}
 description: ''
