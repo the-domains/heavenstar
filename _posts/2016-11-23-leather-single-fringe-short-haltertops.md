@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-12-11T03:28:35.891Z'
+datePublished: '2018-01-21T19:52:44.400Z'
 sourcePath: _posts/2016-11-23-leather-single-fringe-short-haltertops.md
 inFeed: true
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - single
 author: []
 via: {}
-dateModified: '2017-12-11T03:28:35.150Z'
+dateModified: '2018-01-21T19:52:43.375Z'
 title: Haltertops
 publisher:
   name: Heavenstar
