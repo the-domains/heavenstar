@@ -15,8 +15,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.bonanza.com/listings/Roll-it-Up-Pen-Caddy-9-pocket-deluxe-double-stiched/294807538
 title: Roll-it-Up Pen Caddy 9 pocket deluxe double stiched
-datePublished: '2017-12-11T03:28:35.947Z'
-dateModified: '2017-12-11T03:28:35.150Z'
+datePublished: '2018-01-21T19:52:44.465Z'
+dateModified: '2018-01-21T19:52:43.375Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-01-roll-it-up-pen-caddy-9-pocket-deluxe-double-stiched.md
