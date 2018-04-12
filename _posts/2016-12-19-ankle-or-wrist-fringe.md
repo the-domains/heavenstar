@@ -1,12 +1,12 @@
 ---
 title: Ankle or Wrist Fringe
-dateModified: '2018-01-21T19:52:43.375Z'
+dateModified: '2018-04-12T17:37:48.688Z'
 publisher: {}
 author: []
 inFeed: true
 description: ''
 via: {}
-datePublished: '2018-01-21T19:52:44.451Z'
+datePublished: '2018-04-12T17:37:50.085Z'
 sourcePath: _posts/2016-12-19-ankle-or-wrist-fringe.md
 starred: false
 datePublishedOriginal: '2016-12-19T18:58:24.005Z'
