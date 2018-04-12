@@ -1,15 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2018-04-12T17:54:00.978Z'
-dateModified: '2018-04-12T17:49:54.960Z'
+datePublished: '2018-04-12T17:56:53.137Z'
+dateModified: '2018-04-12T17:56:51.039Z'
 title: First step memories made here.
 publisher: {}
 via: {}
 inFeed: true
+sourcePath: _posts/2018-04-12-first-step-memories-made-here.md
 starred: false
 datePublishedOriginal: '2018-04-12T17:54:00.978Z'
-sourcePath: _posts/2018-04-12-first-step-memories-made-here.md
 _context: 'http://schema.org'
 _type: Article
 
