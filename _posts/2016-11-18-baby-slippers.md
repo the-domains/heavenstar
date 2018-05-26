@@ -13,8 +13,8 @@ keywords:
   - leather
   - crawl
 title: Baby Slippers
-datePublished: '2018-05-26T17:45:38.273Z'
-dateModified: '2018-05-26T17:45:37.448Z'
+datePublished: '2018-05-26T17:50:40.897Z'
+dateModified: '2018-05-26T17:50:39.943Z'
 publisher:
   name: Heavenstar
   domain: heavenstar.mystagingwebsite.com
