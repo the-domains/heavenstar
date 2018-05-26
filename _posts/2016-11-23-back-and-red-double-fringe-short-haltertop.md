@@ -3,8 +3,8 @@ isBasedOnUrl: >-
   https://heavenstar.mystagingwebsite.com/?product=back-red-double-fringe-short-haltertop&v=7516fd43adaa
 keywords: []
 title: Back & Red Double Fringe Short Haltertop
-datePublished: '2018-04-12T17:56:53.152Z'
-dateModified: '2018-04-12T17:56:51.039Z'
+datePublished: '2018-05-26T17:45:38.295Z'
+dateModified: '2018-05-26T17:45:37.448Z'
 publisher:
   name: Heavenstar
   domain: heavenstar.mystagingwebsite.com
