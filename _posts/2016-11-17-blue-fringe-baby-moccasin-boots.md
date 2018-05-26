@@ -14,8 +14,8 @@ keywords:
   - snug
   - baby
 title: Blue Fringe Baby Moccasin boots
-datePublished: '2018-05-26T17:45:38.284Z'
-dateModified: '2018-05-26T17:45:37.448Z'
+datePublished: '2018-05-26T17:50:40.890Z'
+dateModified: '2018-05-26T17:50:39.943Z'
 publisher:
   name: Heavenstar
   domain: heavenstar.mystagingwebsite.com
