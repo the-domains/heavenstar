@@ -1,8 +1,8 @@
 ---
 description: Hand crafted with love!
 author: []
-datePublished: '2018-04-12T17:56:53.137Z'
-dateModified: '2018-04-12T17:56:51.039Z'
+datePublished: '2018-05-26T17:45:38.295Z'
+dateModified: '2018-05-26T17:45:37.448Z'
 title: The Forever Rose
 publisher: {}
 via: {}
