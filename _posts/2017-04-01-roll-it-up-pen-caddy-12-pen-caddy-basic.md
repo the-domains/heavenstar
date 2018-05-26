@@ -16,8 +16,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.bonanza.com/listings/Roll-it-Up-Pen-Caddy-12-pen-caddy-Basic/294809788
 title: Roll-it-Up Pen Caddy 12 pen caddy Basic
-datePublished: '2018-04-12T17:56:53.192Z'
-dateModified: '2018-04-12T17:56:51.039Z'
+datePublished: '2018-05-26T17:45:38.398Z'
+dateModified: '2018-05-26T17:45:37.448Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-01-roll-it-up-pen-caddy-12-pen-caddy-basic.md
