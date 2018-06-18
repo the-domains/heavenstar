@@ -19,6 +19,7 @@ logo: >-
 cta: {}
 analytics:
   twitter: '@HeavenstarUS'
+  google: UA-90625109-2
 opengraph:
   type: Business Page
   appId: 'https://www.facebook.com/HeavenstarUS/'
