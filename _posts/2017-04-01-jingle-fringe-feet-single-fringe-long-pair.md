@@ -15,8 +15,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.bonanza.com/listings/Jingle-Fringe-Feet-Single-Fringe-Long-pair-/388167977
 title: Jingle Fringe Feet Single Fringe Long (pair)
-datePublished: '2018-05-26T17:50:40.947Z'
-dateModified: '2018-05-26T17:50:39.943Z'
+datePublished: '2018-06-18T07:25:11.996Z'
+dateModified: '2018-06-18T07:25:11.732Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-01-jingle-fringe-feet-single-fringe-long-pair.md
