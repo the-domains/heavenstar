@@ -1,5 +1,6 @@
-layout_spectrum: 0.9174598443403951
 typography_spectrum: 0.6400829172071697
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#25064D'
@@ -11,33 +12,22 @@ color:
   lightness: 0.21517165486811485
   saturation: 0.544867600247098
   rhythmicContrast: 0.10102128893699461
-name: Heavenstar
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d574f03-ed5a-4e43-b3f2-955fc3527bdf.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9daebefd-b7e3-4487-a99a-30cd2783b238.png
-cta: {}
-analytics:
-  twitter: '@HeavenstarUS'
-  google: UA-90625109-2
+github: true
 opengraph:
   type: Business Page
   appId: 'https://www.facebook.com/HeavenstarUS/'
-purpose:
-  - type: contact
-    label: Contact us
-    url: 'mailto:heavenstar77@gmail.com'
-  - type: contact
-    label: Call us
-    url: 'tel:970-270-0190'
-title: HEAVENSTAR QUALITY LEATHER & GRAPHIC DESIGN
-description: '"Crafting in the USA"'
+layout_spectrum: 0.9174598443403951
+analytics:
+  twitter: '@HeavenstarUS'
+  google: UA-90625109-2
 author:
   name: Jeff Niles
   url: 'http://heavenstar.link/'
   email: heavenstar77@gmail.com
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9daebefd-b7e3-4487-a99a-30cd2783b238.png
+name: Heavenstar
+cta: {}
 navigation:
   - name: THE HEAVENLY STORE
     url: 'https://www.bonanza.com/booths/Heavenstar'
@@ -51,6 +41,12 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/HeavenstarUS'
     type: external
+  - name: Heavenstar Graphics/Movie Division
+    id: a4b8f454-d845-4c25-b7f9-cbcca950e068
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d574f03-ed5a-4e43-b3f2-955fc3527bdf.png
+title: HEAVENSTAR QUALITY LEATHER & GRAPHIC DESIGN
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -61,10 +57,7 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      '@type': VideoObject
-      '@context': 'http://schema.org'
       isBasedOnUrl: 'https://youtu.be/lo8G_0aPSeg'
-      inLanguage: en
       keywords:
         - heavenstar
         - duration
@@ -76,19 +69,29 @@ content:
         - autoplay
         - '261'
         - https
+      author:
+        - name: j Musicman
+          url: 'https://www.youtube.com/user/JNMUSICMAN9'
+          avatar: {}
+      '@context': 'http://schema.org'
       title: Warriorwear.mp4
+      '@type': VideoObject
       publisher:
         name: YouTube
         domain: youtu.be
         url: 'https://www.youtube.com/'
         favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-      author:
-        - name: j Musicman
-          url: 'https://www.youtube.com/user/JNMUSICMAN9'
-          avatar: {}
-      starred: false
       description: 'Warrior wear designed by Heavenstar. https://thegrid.ai/heavenstar/?'
+      inLanguage: en
+      starred: false
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-github: true
+description: '"Crafting in the USA"'
+purpose:
+  - type: contact
+    label: Contact us
+    url: 'mailto:heavenstar77@gmail.com'
+  - type: contact
+    label: Call us
+    url: 'tel:970-270-0190'
