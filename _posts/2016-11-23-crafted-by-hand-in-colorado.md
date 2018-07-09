@@ -1,9 +1,9 @@
 ---
-datePublished: '2018-05-26T17:50:40.890Z'
+datePublished: '2018-07-09T15:40:46.205Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2018-05-26T17:50:39.943Z'
+dateModified: '2018-07-09T15:40:45.467Z'
 title: Crafted by hand in Colorado
 publisher: {}
 description: ''
