@@ -12,8 +12,8 @@ keywords:
   - short
   - single
 title: Haltertops
-datePublished: '2018-06-04T03:33:46.470Z'
-dateModified: '2018-06-04T03:33:42.574Z'
+datePublished: '2018-07-09T15:40:46.200Z'
+dateModified: '2018-07-09T15:40:45.467Z'
 publisher:
   name: Heavenstar
   domain: heavenstar.mystagingwebsite.com
@@ -27,9 +27,9 @@ description: >-
   This is a single fringe short haltertop that ties in the back. Please follow
   and like us: 
 via: {}
+sourcePath: _posts/2016-11-23-leather-single-fringe-short-haltertops.md
 starred: false
 datePublishedOriginal: '2016-11-23T22:21:12.077Z'
-sourcePath: _posts/2016-11-23-leather-single-fringe-short-haltertops.md
 url: haltertops/index.html
 _type: MediaObject
 _context: 'http://schema.org'
